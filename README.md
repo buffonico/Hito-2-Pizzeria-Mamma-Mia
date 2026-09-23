@@ -4,8 +4,8 @@ Proyecto Estatico, creado con React + Vite, para una pizzeria, Hito 2 actualizad
 
 ## Acceso
 
-
-
+https://github.com/buffonico/Hito-2-Pizzeria-Mamma-Mia
+https://buffonico.github.io/Hito-2-Pizzeria-Mamma-Mia/
 
 ## Descripción
 
