@@ -2,7 +2,7 @@
     "name": "pizzeria-mamma-mia",
     "private": true,
     "version": "0.0.0",
-    "homepage": "https://buffonico.github.io/hito-2-pizzeria-mamma-mia/",
+    "homepage": "https://github.com/buffonico/Hito-2-Pizzeria-Mamma-Mia/",
     "type": "module",
     "scripts": {
         "dev": "vite",
